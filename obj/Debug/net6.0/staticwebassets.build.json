@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J7Em61fIcbWWSg1ajGuGTW9boQJkjsZkYB3yesTWBfc=",
+  "Hash": "T6HBJTqmdlp7k1AngGpffNjGTpVf0GjLB3uOcNJ/e8s=",
   "Source": "CustomQABot",
   "BasePath": "_content/CustomQABot",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CustomQABot\\wwwroot",
       "Source": "CustomQABot",
-      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "ContentRoot": "D:\\JavaScript\\GitBot-Pro\\wwwroot\\",
       "BasePath": "_content/CustomQABot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\default.html",
+      "Identity": "D:\\JavaScript\\GitBot-Pro\\wwwroot\\default.html",
       "SourceId": "CustomQABot",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "ContentRoot": "D:\\JavaScript\\GitBot-Pro\\wwwroot\\",
       "BasePath": "_content/CustomQABot",
       "RelativePath": "default.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\default.html"
     },
     {
-      "Identity": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\images\\GitBot.png",
+      "Identity": "D:\\JavaScript\\GitBot-Pro\\wwwroot\\images\\GitBot.png",
       "SourceId": "CustomQABot",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "ContentRoot": "D:\\JavaScript\\GitBot-Pro\\wwwroot\\",
       "BasePath": "_content/CustomQABot",
       "RelativePath": "images/GitBot.png",
       "AssetKind": "All",

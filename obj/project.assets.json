@@ -7948,11 +7948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\CustomQABot.csproj",
+      "projectUniqueName": "D:\\JavaScript\\GitBot-Pro\\CustomQABot.csproj",
       "projectName": "CustomQABot",
-      "projectPath": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\CustomQABot.csproj",
+      "projectPath": "D:\\JavaScript\\GitBot-Pro\\CustomQABot.csproj",
       "packagesPath": "C:\\Users\\94773\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\obj\\",
+      "outputPath": "D:\\JavaScript\\GitBot-Pro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
