@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "J7Em61fIcbWWSg1ajGuGTW9boQJkjsZkYB3yesTWBfc=",
+  "Source": "CustomQABot",
+  "BasePath": "_content/CustomQABot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomQABot\\wwwroot",
+      "Source": "CustomQABot",
+      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "BasePath": "_content/CustomQABot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\default.html",
+      "SourceId": "CustomQABot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "BasePath": "_content/CustomQABot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    },
+    {
+      "Identity": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\images\\GitBot.png",
+      "SourceId": "CustomQABot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\94773\\OneDrive\\Desktop\\12.customQABot\\12.customQABot\\wwwroot\\",
+      "BasePath": "_content/CustomQABot",
+      "RelativePath": "images/GitBot.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GitBot.png"
+    }
+  ]
+}
