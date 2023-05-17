@@ -1,4 +1,4 @@
-# Presentation Video For Code without Barriors Hackathon : https://youtu.be/4Ffp3u-Dkz4
+
 
 # GitBot-Pro AI ChatBot
 
@@ -7,6 +7,7 @@ Bot Framework v4 Custom question answering bot.
 This bot has been created using the [Bot Framework SDK][BF], it shows how to create a bot that uses [Cognitive Services' question answering feature][Quickstart].
 
 [Question answering][LS] lets you to build, train and publish a simple question and answer bot based on FAQ URLs, structured and unstructured documents, or editorial content in minutes. In this project, I have integrated the knowledge base I made at language studios using F&Q documents , to answer the questions.
+## Presentation Video For Code without Barriors Hackathon : https://youtu.be/4Ffp3u-Dkz4
 
 ## Prerequisites
 - This project requires a [Language service resource](https://aka.ms/create-language-resource) with Custom question answering enabled.
